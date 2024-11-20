@@ -4,10 +4,10 @@ Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
 
 ## Special note:
-    ### When downloading spaCy, you only need to install up to the first five lines under the Install spaCy header.
-    #### If you prefer Git Bash:
+### When downloading spaCy, you only need to install up to the first five lines under the Install spaCy header.
+#### If you prefer Git Bash:
      In VS Code, open the terminal.
-    #### Change the terminal to use Git Bash:
+#### Change the terminal to use Git Bash:
         1. Click the dropdown arrow in the terminal panel (next to the + icon).
         2. Select Git Bash.
         3. Follow the same steps as above for activating environments and running the script. 
